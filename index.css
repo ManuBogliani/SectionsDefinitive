@@ -1,0 +1,48 @@
+body{
+    background: url(/marjan-blan-marjanblan-794QUz5-cso-unsplash.jpg);
+    background-size: 2000px;
+}
+
+header{
+    font-family: 'Mate SC', serif;
+    text-align: center;
+    text-decoration: underline;
+    height: 50px;
+    margin-top: 100px;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    margin-left: 120px;
+}
+
+h1{
+    font-family: 'Mate SC', serif;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 27px;
+    color: rgb(77, 0, 0);
+    margin-left: 120px;
+}
+
+button{
+    width: 150px;
+    height: 150px;
+    background: crimson;
+    color: white;
+    border-radius: 25px;
+    cursor: pointer;
+    padding: 0px;
+    font-size: 50px;
+    display:inline;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    margin-left: 390px;
+}
+
+
+a{
+    color: white;
+    background: crimson;
+}
+
+
+
